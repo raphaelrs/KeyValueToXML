@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfWhateverNameYouLike xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WhateverNameYouLike>
+    <Chave>key 1</Chave>
+    <Valor>3</Valor>
+  </WhateverNameYouLike>
+  <WhateverNameYouLike>
+    <Chave>key 2</Chave>
+    <Valor>0</Valor>
+  </WhateverNameYouLike>
+  <WhateverNameYouLike>
+    <Chave>key 3</Chave>
+    <Valor>0</Valor>
+  </WhateverNameYouLike>
+</ArrayOfWhateverNameYouLike>

@@ -1,0 +1,6 @@
+d:\users\t072911934\documents\visual studio 2012\Projects\KeyValueToXML\KeyValueToXML\bin\Debug\KeyValueToXML.exe.config
+d:\users\t072911934\documents\visual studio 2012\Projects\KeyValueToXML\KeyValueToXML\bin\Debug\KeyValueToXML.exe
+d:\users\t072911934\documents\visual studio 2012\Projects\KeyValueToXML\KeyValueToXML\bin\Debug\KeyValueToXML.pdb
+d:\users\t072911934\documents\visual studio 2012\Projects\KeyValueToXML\KeyValueToXML\obj\Debug\KeyValueToXML.csprojResolveAssemblyReference.cache
+d:\users\t072911934\documents\visual studio 2012\Projects\KeyValueToXML\KeyValueToXML\obj\Debug\KeyValueToXML.exe
+d:\users\t072911934\documents\visual studio 2012\Projects\KeyValueToXML\KeyValueToXML\obj\Debug\KeyValueToXML.pdb
